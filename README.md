@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinicoo&label=Profile%20views&color=0e75b6&style=flat" alt="sinicoo" /> </p>
 
-- 🌱 I’m currently learning **Cloud Computing**
-
 - 📫 How to reach me **nicomojo88@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
